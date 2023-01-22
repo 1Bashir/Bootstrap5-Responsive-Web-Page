@@ -1,0 +1,12 @@
+body{
+    font-family: 'Lato', sans-serif;}
+.banner-text{
+    font-size: 70px;
+    font-weight: 900;
+}
+.card:hover{
+   transition:all ease 0,5s ;
+ }
+.card:hover{
+   margin-top: -20px;
+}
